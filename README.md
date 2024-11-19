@@ -13,18 +13,4 @@ Please call me ☁️Clouded☁️
 
 -----------
 
-```cpp
-#include <iostream>
-#include <string.h>
-#include <stdlib.h>
-using namespace std;
-int main(){
-  string younames;
-  cout << "what your name?";
-  cin >> younames;
-  cout << "\nHello" << "younames" << " ,my name is pztsdy~Nice to meet you~";
-  System("pause");
 
-  return 0;
-}
-```
