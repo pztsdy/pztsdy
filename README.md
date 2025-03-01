@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @pztsdy
-- 📫 How to reach me **Piaoztsdy@outlook.com**
+- 📫 How to reach me **piaoztsdy_@outlook.com**
 - 🍿 I'm Chinese.
 - 😝 Do you like me?
 
@@ -9,8 +9,8 @@ You can click the Preview link to take a look at your changes.
 --->
 
 My name is *pztsdy*.
-Please call me ☁️Clouded☁️
 
 -----------
 
-
+## special zone
+I'm a student. So I may have some mistakes.
